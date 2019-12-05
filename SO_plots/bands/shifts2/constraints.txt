@@ -1,0 +1,27 @@
+\begin{tabular} { l  c}
+
+ Parameter &  95\% limits\\
+\hline
+{\boldmath$A_{lens}       $} & $1.001^{+0.065}_{-0.063}   $\\
+
+{\boldmath$r              $} & $0.0002^{+0.0037}_{-0.0034}$\\
+
+{\boldmath$\beta_d        $} & $1.530^{+0.018}_{-0.018}   $\\
+
+{\boldmath$\epsilon       $} & $0.199^{+0.048}_{-0.049}   $\\
+
+{\boldmath$\alpha^{BB}_d  $} & $-0.202^{+0.069}_{-0.071}  $\\
+
+{\boldmath$A^{BB}_d       $} & $20.1^{+1.4}_{-1.3}        $\\
+
+{\boldmath$\beta_s        $} & $-3.16^{+0.27}_{-0.22}     $\\
+
+{\boldmath$\alpha^{BB}_s  $} & $-0.61^{+0.22}_{-0.23}     $\\
+
+{\boldmath$A^{BB}_s       $} & $6.3^{+3.7}_{-3.6}         $\\
+
+{\boldmath$\Delta\nu_1    $} & $0.022^{+0.078}_{-0.098}   $\\
+
+{\boldmath$\Delta\nu_2    $} & $0.015^{+0.057}_{-0.072}   $\\
+\hline
+\end{tabular}

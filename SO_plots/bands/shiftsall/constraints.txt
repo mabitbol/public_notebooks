@@ -1,0 +1,43 @@
+\begin{tabular} { l  c}
+
+ Parameter &  95\% limits\\
+\hline
+{\boldmath$A_{lens}       $} & $1.001^{+0.066}_{-0.063}   $\\
+
+{\boldmath$r              $} & $0.0003^{+0.0037}_{-0.0035}$\\
+
+{\boldmath$\beta_d        $} & $1.80^{+0.40}_{-0.43}      $\\
+
+{\boldmath$\epsilon       $} & $0.202^{+0.034}_{-0.034}   $\\
+
+{\boldmath$\alpha^{EE}_d  $} & $-0.400^{+0.069}_{-0.069}  $\\
+
+{\boldmath$A^{EE}_d       $} & $102^{+100}_{-90}          $\\
+
+{\boldmath$\alpha^{BB}_d  $} & $-0.199^{+0.070}_{-0.070}  $\\
+
+{\boldmath$A^{BB}_d       $} & $51^{+70}_{-40}            $\\
+
+{\boldmath$\beta_s        $} & $-3.44^{+0.48}_{-0.43}     $\\
+
+{\boldmath$\alpha^{EE}_s  $} & $-0.81^{+0.20}_{-0.20}     $\\
+
+{\boldmath$A^{EE}_s       $} & $28^{+20}_{-20}            $\\
+
+{\boldmath$\alpha^{BB}_s  $} & $-0.61^{+0.22}_{-0.22}     $\\
+
+{\boldmath$A^{BB}_s       $} & $13.9^{+9.2}_{-11}         $\\
+
+{\boldmath$\Delta\nu_1    $} & $0.123^{+0.079}_{-0.19}    $\\
+
+{\boldmath$\Delta\nu_2    $} & $0.084^{+0.085}_{-0.14}    $\\
+
+{\boldmath$\Delta\nu_3    $} & $0.00^{+0.12}_{-0.12}      $\\
+
+{\boldmath$\Delta\nu_4    $} & $-0.04^{+0.13}_{-0.11}     $\\
+
+{\boldmath$\Delta\nu_5    $} & $-0.06^{+0.14}_{-0.12}     $\\
+
+{\boldmath$\Delta\nu_6    $} & $-0.06^{+0.13}_{-0.12}     $\\
+\hline
+\end{tabular}
